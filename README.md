@@ -1,4 +1,4 @@
-# ToDo task manager make with create-react-app
+# ToDo task manager made with create-react-app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
