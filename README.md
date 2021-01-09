@@ -1,3 +1,5 @@
+![React-logo](https://www.tagesjump.ru/media/catalog/product/cache/567b7f4a86c1a793b962d16239d1a1ab/r/e/react-base.png?raw=true)
+
 # ToDo task manager made with create-react-app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
